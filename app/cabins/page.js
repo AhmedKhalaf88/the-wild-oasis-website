@@ -1,7 +1,7 @@
-export default function page() {
+export default async function page() {
   return (
     <div>
-      <h2>Cabins</h2>
+      <h2>Cabins page</h2>
     </div>
   );
 }
