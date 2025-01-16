@@ -2,6 +2,9 @@ import { Suspense } from "react";
 import CabinList from "@/app/_componants/CabinList";
 import Spinner from "@/app/_componants/Spinner";
 
+// export const revalidate = 0;
+export const revalidate = 3600;
+
 export const metadata = {
   title: "Cabins",
 };
