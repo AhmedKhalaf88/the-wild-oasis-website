@@ -43,3 +43,21 @@
   ) !important; /* The color of the background for days in the middle of a range. */
   margin: 0 !important;
 }
+/* .rdp-months {
+  flex-wrap: nowrap !important;
+} */
+/* .rdp-month {
+  width: 250px !important;
+} */
+
+/* .my-calendar .rdp-day {
+  width: 35px;
+  height: 35px;
+  line-height: 28px;
+  text-align: center;
+  font-size: 0.8rem;
+}
+.my-calendar .rdp-months {
+  display: flex;
+  gap: 15px;
+} */
